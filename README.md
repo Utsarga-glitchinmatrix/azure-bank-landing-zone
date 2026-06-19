@@ -1,4 +1,4 @@
-Markdown# Azure Bank Landing Zone — Hub-Spoke Security Architecture
+Azure Bank Landing Zone — Hub-Spoke Security Architecture
 
 A production-grade Azure landing zone built entirely in Terraform, implementing a secure hub-spoke network topology for a financial institution aligned with **APRA CPS 234** security requirements.
 
